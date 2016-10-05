@@ -1,0 +1,3 @@
+# Google Map sample Android App with navigation intent.
+
+For the map to be visible in the app when you execute it replace **YOUR_GOOGLE_MAPS_API_KEY\'S_VALUE_FOR_THIS_PROJECT_HERE** in the file strings.xml located in folder values/ (../app/src/main/res/values/strings.xml) with the API key for your project obtained from [Google Developer Console - Api Credentials for your project](https://console.developers.google.com/apis/credentials)
